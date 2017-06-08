@@ -2,4 +2,4 @@
 Android App - School Project
 
 
-Most work is in Phase 2
+Most work is in out/production/BusesAreUs_Phase2
